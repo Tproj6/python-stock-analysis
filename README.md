@@ -28,7 +28,7 @@ The seeded dataset shows significant dispersion in returns across the selected u
 The comparison highlights how securities exposed to similar technology and AI-infrastructure themes can exhibit very different risk-return profiles. While higher-performing names produced outsized gains, they also experienced higher volatility, illustrating the trade-off between return potential and investment risk that underpins portfolio construction and equity analysis.
 
 # Example Output
-![charts/normalizedlized_comparison.png
+![Comparison](charts/normalized_comparison.png)
 
 ## Tech stack
 Python, pandas, matplotlib, `yfinance` (for live data)
